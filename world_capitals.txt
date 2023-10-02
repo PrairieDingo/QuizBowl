@@ -14,7 +14,7 @@ Samoa,Apia
 Turkmenistan,Ashgabat
 Eritrea,Asmara
 Kazakhstan,Astana
-Paraguay,Asunción
+Paraguay,Asuncion
 Greece,Athens
 Cook Islands,Avarua
 Iraq,Baghdad
@@ -74,7 +74,7 @@ Guyana,Georgetown
 Gibraltar,Gibraltar
 South Georgia and the South Sandwich Islands,Grytviken
 Guatemala,Guatemala City
-Saint Barthélemy,Gustavia
+Saint Barthelemy,Gustavia
 Guam,Hagatna
 Bermuda,Hamilton
 Easter Island,Hanga Roa
@@ -165,7 +165,7 @@ Kosovo,Pristina
 North Korea,Pyongyang
 Ecuador,Quito
 Morocco,Rabat
-Iceland,Reykjavík
+Iceland,Reykjavik
 Latvia,Riga
 Saudi Arabia,Riyadh
 British Virgin Islands,Road Town
@@ -178,7 +178,7 @@ San Marino,San Marino
 El Salvador,San Salvador
 Yemen,Sana'a
 Dominican Republic,Santo Domingo
-São Tomé and Príncipe,Sao Tome
+Sao Tome and Principe,Sao Tome
 Bosnia and Herzegovina,Sarajevo
 South Korea,Seoul
 Singapore,Singapore
@@ -221,7 +221,7 @@ Poland,Warsaw
 United States,Washington D.C.
 New Zealand,Wellington
 Cocos (Keeling) Islands,West Island
-Curaçao,Willemstad
+Curacao,Willemstad
 Namibia,Windhoek
 Cameroon,Yaounde
 Nauru,Yaren
